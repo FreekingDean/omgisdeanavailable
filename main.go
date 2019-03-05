@@ -11,9 +11,8 @@ var page = `<html lang="en"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!--  -->
-		<meta property="og:title" content="Is it Wednesday yet?">
+		<meta property="og:title" content="OMG Is Dean Available Right Now?">
 		<meta property="og:description" content="The question you've been asking yourself.">
-		<meta property="og:url" content="http://www.isitwednesdayyet.com/">
 		<!-- -->
 		<title>OMG Is Dean Available Right Now?</title>
 		<link href="https://fonts.googleapis.com/css?family=Lato:900,300" rel="stylesheet" type="text/css">
@@ -51,8 +50,8 @@ var page = `<html lang="en"><head>
 	</head>
 	<body>
 		<div id="main-div">
-			<div id="question" class="center">Is it Wednesday yet?</div>
-			<div id="answer" class="center">No :( It's only Tuesday ..</div>
+			<div id="question" class="center">OMG Is Dean Available Right Now?</div>
+			<div id="answer" class="center">YES</div>
 		</div>
 	</body>
 </html>`
